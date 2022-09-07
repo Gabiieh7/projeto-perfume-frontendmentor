@@ -1,0 +1,20 @@
+@media(max-width:570px) {
+main{
+    flex-direction: column;
+    height: 625px;
+    width: 340px;
+    margin-top: 30px;
+    text-align: ;
+}
+.perfume img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.attribution{
+    transform: translateY(680px);
+}
+section{
+    padding: 7px 20px;
+}
+    
+}
